@@ -1,6 +1,6 @@
 N = 1000
 
-#global variables
+# global variables.
 pupils = [
     {
         "id": 1001,
