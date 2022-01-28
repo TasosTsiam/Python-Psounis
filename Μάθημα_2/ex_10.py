@@ -1,0 +1,5 @@
+hours = int(input("Enter Hours: "))
+minutes = int(input("Enter Minutes: "))
+seconds = int(input("Enter seconds: "))
+hms = str(hours) + ":" + str(minutes) + ":" + str(seconds)
+print(hms)

@@ -1,0 +1,11 @@
+list = [5, 15, 20, 25, 30, 35, 40, 45, 50, 55]
+print(list[3])
+print(list[4])
+print(list[5])
+print(list[6])
+print("Αντίστροφη μέτρηση Λίστας: ")
+print(list[-4])
+print(list[-5])
+print(list[-6])
+print(list[-7])
+print(list[3:7])

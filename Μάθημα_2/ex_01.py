@@ -1,0 +1,6 @@
+print(1 + 2)
+print(5 - 2)
+print(2 * 1.5)
+print(6 // 2)
+print(3 ** 1)
+print(27 % 8)
